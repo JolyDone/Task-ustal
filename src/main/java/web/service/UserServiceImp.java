@@ -8,7 +8,7 @@ import web.model.User;
 import java.util.List;
 
 @Service
-public class UserServiceImp implements UserService{
+public class UserServiceImp {
 
     private final UserDaoImp userDaoImp;
 
